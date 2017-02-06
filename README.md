@@ -20,4 +20,4 @@ for usage instructions.
 
 For instance, to find branches of Tesco within one mile of 10 Downing Street, run
 
-    $ python find_branches.py --chain=tesco --within-distance-miles=1 --address='10 Downing Street London'
+    $ python find_branches.py --chain=tesco --within-distance-miles=1 --address="10 Downing Street London"
